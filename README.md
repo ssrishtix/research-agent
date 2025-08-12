@@ -29,7 +29,7 @@ A tool that gathers, analyzes, and summarizes information about companies and ro
    cd research-agent
    \```
 
-2. (Optional) Create and activate a virtual environment:
+2. Create and activate a virtual environment:
 
    \```bash
    python -m venv venv
